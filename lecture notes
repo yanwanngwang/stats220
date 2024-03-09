@@ -9,3 +9,11 @@ example of maekdown
 link use code [description for link](copy paste the link)
 image use code ![des...](c&v...)
 
+first_day_textn<-image_blank(width = 500,
+                             height = 400,)%>%
+  image_annotate(text = "first of school",
+                 boxcolor = "#000000",
+                 color = "#FF00FF",
+                 size=30,
+                 font = 'Comic Scans',
+                 gravity = "south")
