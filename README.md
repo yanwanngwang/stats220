@@ -11,4 +11,4 @@ use of links to other websites
 *  ### *Part C:HTML creation*
 
 2. ## Meme link uesd for this project
-[meme for TT]（16 【今天是陪妈玩玩具的乖乖小宝 - 汤圆的打工日记 | 小红书 - 你的生活指南】 😆 KV4IuarL1dple5S 😆 http://xhslink.com/YZVOXC）
+[meme for TT]（https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thesprucepets.com%2Fragdoll-cat-breed-profile-4583144&psig=AOvVaw2CIpKcbqPDifvefv_T8Ihw&ust=1710040300895000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjE0dia5oQDFQAAAAAdAAAAABAE)
