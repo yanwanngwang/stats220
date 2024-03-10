@@ -2,14 +2,15 @@ use of two different levels of headers
 use of two different types of bullet points (ordered or unordered)
 use of bold and italics
 use of links to other websites
-# **Project 1 for Stats 220**
+# **Repo for stats 220**
 
-1. ## step by step for project 1
+## I will use this repo to show some works for stats220 project 
    
-*  ### *section A: setting up GitHub*
-*  ### *Part B: Meme Creation*
-*  ### *Part C:HTML creation*
+*  ### *project 1*
+   ### *please clink this to check my first project*  
+*  ### *project 2*
+*  ### *project 3*
+*  ### *project 4*
+*  ### *project 5*
 
-2. ## Meme link uesd for this project
-
-[ragdoll](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thesprucepets.com%2Fragdoll-cat-breed-profile-4583144&psig=AOvVaw2CIpKcbqPDifvefv_T8Ihw&ust=1710040300895000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjE0dia5oQDFQAAAAAdAAAAABAE)
+## **Wish you enjoy this**
