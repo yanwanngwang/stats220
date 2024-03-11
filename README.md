@@ -1,7 +1,4 @@
-use of two different levels of headers
-use of two different types of bullet points (ordered or unordered)
-use of bold and italics
-use of links to other websites
+
 # **Repo for stats 220**
 
 ## I will use this repo to show some works for stats220 project 
