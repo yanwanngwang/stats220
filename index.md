@@ -27,6 +27,3 @@
  * image_mosaic()
  * %>%
 
-## ***This is the code I used***
-[](index.html)
-
