@@ -7,7 +7,7 @@ use of links to other websites
 ## I will use this repo to show some works for stats220 project 
    
 *  ### *project 1*
-   ### *please clink this to check my first project*  
+   ### [*please clink this to check my first project*](https://github.com/yanwanngwang/stats220/blob/7fa25a3eef08c4d2f9474ff2bf98b68f2b92445c/Project%201.md)  
 *  ### *project 2*
 *  ### *project 3*
 *  ### *project 4*
