@@ -4,7 +4,7 @@
 ![](https://github.com/yanwanngwang/stats220/blob/d67658b330611858f456261a10f694084b335492/my_meme.png)
 
 1. ## **Start of the project**
-#### *As I read through the instruction for project1 I have a idea of make a meme of cat 🐱 (really love cat forevr)*
+#### *As I read through the instruction for project1 I have a idea of make a meme of cat 🐱 (really really love cat)*
 #### *I start to search some cat image which can be used*
   ### **The following shows the intial image**
 ![](https://vcahospitals.com/-/media/2/vca/images/pet-health-library/cat-breeds/ragdoll.ashx?h=275&iar=0&w=400&hash=D03391C5339EA99019B6EB08AA13587D)
@@ -14,6 +14,7 @@
 
 2. ## **Making meme**
 #### *I decided to make a meme with four cats to show different mental states during the semester*
+#### *I read through the lab task and that give me some advice on how to text on the image*
 3. ## **Code Function  I used for this project**
  * image_read()
  * image_annotate()
