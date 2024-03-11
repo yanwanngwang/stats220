@@ -14,4 +14,4 @@ use of links to other websites
 *  ### *project 5*
 
 ## **Wish you enjoy this**
-![](https://github.com/yanwanngwang/stats220/blob/ba63a6543e03784eda151aba1bdf3e0665fbf08f/tt.png)
+![](https://github.com/yanwanngwang/stats220/blob/b6e1a88979405582395bfb65976002a0eb4b2de5/tt.png)
