@@ -5,8 +5,8 @@
 
 1. ## **Start of the project**
 
-# *As I read through the instruction for project1 I have a idea of make a meme of cat 🐱 (really love cat forevr)*
-# *I start to search some cat image which can be used*
+#### *As I read through the instruction for project1 I have a idea of make a meme of cat 🐱 (really love cat forevr)*
+#### *I start to search some cat image which can be used*
   ### **The following shows the intial image**
 ![](https://vcahospitals.com/-/media/2/vca/images/pet-health-library/cat-breeds/ragdoll.ashx?h=275&iar=0&w=400&hash=D03391C5339EA99019B6EB08AA13587D)
 ![](https://www.thesprucepets.com/thmb/17UY4UpiMekV7WpeXDziXsnt7q4=/1646x0/filters:no_upscale():strip_icc()/GettyImages-145577979-d97e955b5d8043fd96747447451f78b7.jpg)
