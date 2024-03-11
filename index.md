@@ -27,7 +27,4 @@
  * image_mosaic()
  * %>%
 
-## ***R code for the whole process***
-
-
 
