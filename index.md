@@ -1,6 +1,7 @@
 # Repo for making a image
 
-## ***The R package used for this project is [magick](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
+## ***The R package used for this project is [magick](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)***
+
 ## ***This is the final meme I got***
 ![](https://github.com/yanwanngwang/stats220/blob/d67658b330611858f456261a10f694084b335492/my_meme.png)
 
