@@ -27,3 +27,5 @@
  * image_mosaic()
  * %>%
 
+[The Screen Shot for making a folder in R](https://github.com/yanwanngwang/stats220/blob/5f894972769c39c99dfaccf706c0aaa952291874/ScreenShot.jpg)
+
